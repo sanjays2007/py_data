@@ -1,0 +1,3 @@
+{'item': 'Widget A', 'quantity': 5, 'price_per_unit': 20.0, 'discount': 0.1, 'tax_rate': 0.05}
+{'item': 'Widget B', 'quantity': 2, 'price_per_unit': 50.0, 'discount': 0.2, 'tax_rate': 0.08}
+{'item': 'Widget C', 'quantity': 10, 'price_per_unit': 15.0, 'discount': 0.05, 'tax_rate': 0.07}
